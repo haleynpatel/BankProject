@@ -7,3 +7,7 @@
 
 
 This project was orignally done as a term project for NJIT Database Systems Design and Management Honors class. Using the skills I learned from this class, I have decided to start revamping this project and adding more functionalities to it.
+
+## Screenshots
+
+![App Screenshot](/assets/img/READmeScreenshots/indexPage.JPG)

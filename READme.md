@@ -10,7 +10,7 @@ This project was orignally done as a term project for NJIT Database Systems Desi
 
 ## Screenshots
 
-![App Screenshot](/assets/img/READmeScreenshots/indexPage.JPG)
+![App Screenshot](/assets/img/READmeScreenshots/IndexPage.JPG)
 
 ## Database Design and Implementation
 ### Database Schema

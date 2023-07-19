@@ -6,4 +6,4 @@
 [![MySQL](https://img.shields.io/badge/MySQL-Database%20Management-blue)](https://www.mysql.com/)
 
 
-This project was orignally done as a term project for NJIT CS331 Honor's (Database Systems Design and Management). Using the skills I learned from this class, I have decided to start revamping this project and adding more functionalities to it.
+This project was orignally done as a term project for NJIT Database Systems Design and Management Honors class. Using the skills I learned from this class, I have decided to start revamping this project and adding more functionalities to it.

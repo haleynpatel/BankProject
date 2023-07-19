@@ -10,4 +10,9 @@ This project was orignally done as a term project for NJIT Database Systems Desi
 
 ## Screenshots
 
-![App Screenshot](/assets/img/READmeScreenshots/IndexPage.JPG)
+![App Screenshot](/assets/img/READmeScreenshots/indexPage.JPG)
+
+## Database Design and Implementation
+### Database Schema
+This diagram displays our database schema, adhering to 3rd normal form.
+![App Screenshot](/assets/img/READmeScreenshots/Schema.JPG)
